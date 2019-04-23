@@ -9,3 +9,7 @@
 ## release 1.1.0
 
 ## hotfix login
+
+## rebase
+
+## release 1.2.0
