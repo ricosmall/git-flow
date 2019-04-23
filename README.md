@@ -11,3 +11,5 @@
 ## hotfix login
 
 ## rebase
+
+## release 1.2.0
