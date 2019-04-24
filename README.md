@@ -21,3 +21,7 @@
 ## feature function
 
 new feature function
+
+## release 1.3.0
+
+fix release 1.3.0
