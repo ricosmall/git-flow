@@ -1,0 +1,24 @@
+{
+  "name": "git-flow",
+  "version": "1.0.1",
+  "description": "## homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricosmall/git-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricosmall/git-flow/issues"
+  },
+  "homepage": "https://github.com/ricosmall/git-flow#readme",
+  "devDependencies": {
+    "standard-version": "^5.0.2"
+  }
+}
