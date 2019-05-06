@@ -27,3 +27,6 @@ new feature function
 fix release 1.3.0
 
 promotion feature
+
+fix release 1.5.1 bugs
+
